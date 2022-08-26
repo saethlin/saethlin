@@ -3,4 +3,4 @@ I'm currently working on...
 * mmap/MMIO support in Miri (stay tuned)
 * Improving cargo miri test startup time: https://github.com/rust-lang/rust/pull/99939
 * Detecting alignment UB without Miri: https://github.com/rust-lang/rust/pull/99074
-* Maintenance of miri.saethlin.dev/ub
+* Maintenance of [miri.saethlin.dev/ub](https://miri.saethlin.dev/ub)
