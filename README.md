@@ -1,4 +1,4 @@
-/u/Saefroch, @Saythin, Saethlin everywhere else on the internet.
+/u/Saefroch on Reddit, @Saythin on Twitter, Saethlin everywhere else on the internet.
 
 I'm currently working on...
 * A garbage collector inside Miri's Stacked Borrows runtime: https://github.com/rust-lang/miri/pull/2479
