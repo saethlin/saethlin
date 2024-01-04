@@ -1,4 +1,4 @@
-/u/Saefroch on Reddit, @saethlin@hachyderm.io on Mastodon, Saethlin everywhere else on the internet.
+/u/Saefroch on Reddit, `@saethlin@hachyderm.io` on Mastodon, Saethlin everywhere else on the internet.
 
 I do things like:
 * Maintenance of [miri.saethlin.dev/ub](https://miri.saethlin.dev/ub) also known as [Crater At Home](https://github.com/saethlin/crater-at-home)
